@@ -294,6 +294,8 @@ HERO SECTION
     left: 0;
     opacity: 0;
     transition: .3s;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 100%);
+
 }
 .sofax-demos-item img{
     width: 100%;
