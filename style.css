@@ -295,6 +295,9 @@ HERO SECTION
     opacity: 0;
     transition: .3s;
 }
+.sofax-demos-item img{
+    width: 100%;
+}
 
 .sofax-demos-wrap:hover .sofax-demo-preview-btn {
     opacity: 1;
@@ -310,9 +313,7 @@ HERO SECTION
     opacity: 0;
     transition: .4s;
 }
-.sofax-demos-wrap:hover{
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 100%);
-}
+
 
 
 
